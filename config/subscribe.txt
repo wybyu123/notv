@@ -28,3 +28,5 @@ https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/IPTV.m3u
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
 #migu video
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+#10
+https://222.boyu.ccwu.cc/get/iptv_007.m3u
