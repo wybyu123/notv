@@ -15,7 +15,7 @@ https://yuxx.de5.net/cd8781ee.m3u
 https://yuxx.de5.net/e7d58303.m3u
 https://yuxx.de5.net/a4093b67.m3u
 #推流
-https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/gazb601.txt
+https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/dsj0417.txt
 #移动
 https://framagit.org/zhoujck/config/-/raw/main/json/移动
 #江苏电信
