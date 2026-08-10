@@ -402,7 +402,7 @@ def finalize_output(organized, group_order, channel_order):
                     continue
 
                 urls = sorted(organized[ip_type][group][channel], key=lambda x: x[1], reverse=True)
-                selected = [u[0] for u in urls[:10]]
+                selected = [u[0] for u in urls[:20]]
 
                 if selected:
                    # txt_lines.append(f"{channel},{'#'.join(selected)}")
