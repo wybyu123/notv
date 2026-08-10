@@ -6,7 +6,6 @@ https://raw.githubusercontent.com/wybyu123/123/refs/heads/main/output_newlive.tx
 https://raw.githubusercontent.com/wybyu123/123/refs/heads/main/output_hls.txt
 #4
 https://oer.us.ci/get/jilin.m3u 
-https://222.boyu.ccwu.cc/get/001.m3u
 https://yuxx.de5.net/edcab778.m3u	
 https://yuxx.de5.net/33fc12a0.m3u	
 https://yuxx.de5.net/3c1f32b7.m3u	
