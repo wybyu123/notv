@@ -1,6 +1,6 @@
 
 https://raw.githubusercontent.com/wybyu123/123/refs/heads/main/output_ts.txt
-
+https://raw.githubusercontent.com/wybyu123/live/refs/heads/main/zhgxtv_live.m3u
 https://raw.githubusercontent.com/wybyu123/123/refs/heads/main/output_newlive.txt
 https://fbf.de5.net/hotels/ALL.m3u
 https://bev.ccwu.cc/hotels/ALL.m3u
