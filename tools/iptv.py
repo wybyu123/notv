@@ -385,7 +385,7 @@ def finalize_output(organized, group_order, channel_order):
     for ip_type in ['ipv4', 'ipv6']:
         txt_lines = []
         m3u_lines = [
-            '#EXTM3U x-tvg-url="https://gh.catmak.name/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"',  # 添加EPG地址
+            '#EXTM3U x-tvg-url="https://boyc.de5.net/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"',  # 添加EPG地址
         ]
 
         # 按模板顺序处理分组
